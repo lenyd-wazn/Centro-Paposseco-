@@ -1,0 +1,9 @@
+{
+  "name": "Centro de Formação Paposseco",
+  "short_name": "Paposseco",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F7FC",
+  "theme_color": "#0755A5",
+  "icons": []
+}
